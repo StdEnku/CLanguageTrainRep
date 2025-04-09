@@ -1,0 +1,8 @@
+C:\Users\Syple\Desktop\CLanguageTrainRep\02.15ページの練習問題\問2>gcc main.c -o MyApp -fexec-charset=CP932
+
+C:\Users\Syple\Desktop\CLanguageTrainRep\02.15ページの練習問題\問2>MyApp.exe
+1つ目の浮動小数点数を入力してください。12.5
+2つ目の浮動小数点数を入力してください。13.5
+1つ目の値と2つ目の値の合計は26.000000
+C:\Users\Syple\Desktop\CLanguageTrainRep\02.15ページの練習問題\問2>PAUSE
+続行するには何かキーを押してください . . .
