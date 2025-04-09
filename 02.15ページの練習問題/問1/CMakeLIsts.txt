@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.5)
+
+project(MyApp C)
+set(CMAKE_C_COMPILER gcc)
+
+set(SOURCE_DIR src)
+include_directories(include)
+
+file(GLOB_RECURSE SOURCES "${SOURCE_DIR}/*.c")
+add_executable(${PROJECT_NAME} ${SOURCES})

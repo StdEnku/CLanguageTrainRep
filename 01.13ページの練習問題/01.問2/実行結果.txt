@@ -1,3 +1,1 @@
-gcc main.c -fexec-charset=CP932
-./a.exe
 num の値は1000です
