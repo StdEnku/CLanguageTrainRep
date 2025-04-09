@@ -7,7 +7,7 @@ OS - WSL2(Ubuntu)
 
 ## 実行方法
 ```bash
-cd [プロジェクトルートフォルダ]
+cd [CMakeLists.txtのあるフォルダ]
 mkdir build
 cd build
 cmake ..
