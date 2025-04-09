@@ -1,0 +1,3 @@
+gcc main.c -fexec-charset=CP932
+./a.exe
+ch は X, f は 100.123001d は 123.009000
